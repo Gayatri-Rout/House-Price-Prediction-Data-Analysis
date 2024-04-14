@@ -12,8 +12,6 @@ The dataset consists of 1460 records and 81 features. These features include bot
 
 - The dataset contains missing values in several features, with varying percentages of missingness ranging from less than 1% to almost 100%.
   ![image](https://github.com/Gayatri-Rout/House-Price-Prediction-Data-Analysis/assets/70259060/fd570f94-0762-4bac-b2f3-35baf434219c)
-  ![image](https://github.com/Gayatri-Rout/House-Price-Prediction-Data-Analysis/assets/70259060/0f746037-dd10-4017-8513-25fa115e88d0)
-  ![image](https://github.com/Gayatri-Rout/House-Price-Prediction-Data-Analysis/assets/70259060/9d220715-7005-47c3-9b7e-3e4393cfd4be)
   
 - The graphs showed some relationship between the missing values and sale price. Thus all these features are important for prediction and can't be dropped.
 - Missing values were imputed or replaced using appropriate techniques, such as filling with median values for numerical features and replacing with a new label for categorical features.
